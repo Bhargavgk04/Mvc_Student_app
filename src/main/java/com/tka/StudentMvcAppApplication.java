@@ -10,6 +10,7 @@ public class StudentMvcAppApplication {
 		SpringApplication.run(StudentMvcAppApplication.class, args);
 		
 		System.out.println("Running........!!!!!!!");
+		System.out.println("Sucessfully");
 	}
 
 }
